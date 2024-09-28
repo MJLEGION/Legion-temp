@@ -49,7 +49,7 @@ class _TempConverterHomePageState extends State<TempConverterHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Temperature Converter'),
+        title: const Text('Legion-TempConverter'),
         centerTitle: true,
         backgroundColor: Colors.red,
       ),
